@@ -1,0 +1,104 @@
+{
+    "layer": "top",
+    "position": "top",
+
+    "modules-left": [
+        "custom/right-arrow-dark",
+        "network"
+    ],
+    "modules-center": [
+        "custom/left-arrow-dark",
+        "clock#1",
+        "custom/left-arrow-light",
+        "custom/left-arrow-dark",
+        "clock#2",
+        "custom/right-arrow-dark",
+        "custom/right-arrow-light",
+        "clock#3",
+        "custom/right-arrow-dark"
+    ],
+    "modules-right": [
+        "custom/left-arrow-dark",
+        "pulseaudio",
+        "custom/left-arrow-light",
+        "custom/left-arrow-dark",
+        "memory",
+        "custom/left-arrow-light",
+        "custom/left-arrow-dark",
+        "cpu",
+        "custom/left-arrow-light",
+        "custom/left-arrow-dark",
+        "disk",
+        "custom/left-arrow-light",
+        "custom/left-arrow-dark",
+        "tray"
+    ],
+
+    "custom/left-arrow-dark": {
+        "format": "",
+        "tooltip": false
+    },
+    "custom/left-arrow-light": {
+        "format": "",
+        "tooltip": false
+    },
+    "custom/right-arrow-dark": {
+        "format": "",
+        "tooltip": false
+    },
+    "custom/right-arrow-light": {
+        "format": "",
+        "tooltip": false
+    },
+
+    "pulseaudio": {
+        "format": "Vol {volume:2}%",
+        "format-bluetooth": "{icon}  {volume}%",
+        "format-muted": "MUTE",
+        "format-icons": {
+            "headphones": "",
+            "default": [
+                "",
+                ""
+            ]
+        },
+        "scroll-step": 5,
+        "on-click": "pamixer -t",
+        "on-click-right": "pavucontrol"
+    },
+    "memory": {
+        "interval": 5,
+        "format": "Mem {used} / {total}"
+    },
+    "cpu": {
+        "interval": 5,
+        "format": "CPU {usage:2}%",
+        "tooltip": false
+    },
+    "disk": {
+        "interval": 5,
+        "format": "Disk {used} / {total}",
+        "path": "/",
+        "tooltip": true,
+        "format-icons": {
+            "high": "",
+            "medium": "",
+            "low": ""
+        }
+    },
+    "tray": {
+        "icon-size": 20
+    },
+
+    "network": {
+        "interface": "wlp2s0",
+        "format-connected": "{icon} {essid} ({signal}%)",
+        "format-disconnected": "{icon} Disconnected",
+        "tooltip": true,
+        "format-icons": {
+            "up": "↑",
+            "down": "↓"
+        }
+    }
+}
+

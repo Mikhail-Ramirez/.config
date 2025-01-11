@@ -1,0 +1,92 @@
+{
+   "checksum": "dd88f8a88d1c22ddb4ba60e9182ed919",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13375897031829349",
+            "date_last_used": "0",
+            "guid": "ff686f40-99f6-4025-8273-50fd7ee5eb58",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Breaking News Headlines and Media Bias | Ground News",
+            "type": "url",
+            "url": "https://ground.news/"
+         }, {
+            "date_added": "13374933136731726",
+            "date_last_used": "13379445377030712",
+            "guid": "4f78fecd-689b-4e51-95f7-c1fe592dc320",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "LazyApply Dashboard : Job Application Bot",
+            "type": "url",
+            "url": "https://app.lazyapply.com/dashboard"
+         }, {
+            "date_added": "13374933140219546",
+            "date_last_used": "0",
+            "guid": "a6b2cc0e-7944-4e3c-85e3-36faa753d9fd",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Feed | LinkedIn",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
+         }, {
+            "date_added": "13375896863317881",
+            "date_last_used": "0",
+            "guid": "91ba531f-a4dc-4f51-855a-c5d56aac1380",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Reddit - Dive into anything",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13375911231092854",
+            "date_last_used": "0",
+            "guid": "ad066344-418b-41f3-b211-8b0dc2905b55",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chess.com - Play Chess Online - Free Games",
+            "type": "url",
+            "url": "https://www.chess.com/"
+         } ],
+         "date_added": "13379445268337574",
+         "date_last_used": "0",
+         "date_modified": "13375911231092854",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13379445268337576",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13379445268337577",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtEBCrABCIiBAhKpASAAkgGjAQqgAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJH25ZmPIpBgARH25ZmPIpBgAiNAnekPuX8ikGABADGd5GYl6fVO6BIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAnekPuX8ikGABADGd5GYl6fVO6BIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpepNZmPIpBgASACoYVzdtUi9nMENmSlNzZmUvcERCcy9sdz09SAMS7AEICBLnAQocZ2kvcmlXcVdSeEtCRUVkd3I5L0d0QnlIN1VvPRJmWjpBRHF0QVp6cE5NUjVhR0xYbnJyajhzbDlBa3Vyc0hGTXgxYy9wRk5ZZUVtQkN6SXBuZnlQZzJMWHVDUXl3NlFpTmhIcEU2RWd0eEZVeU85YlJuTFA4cERhL2ZqNHNrdmhvdz09GAAgACgAMI6ByrC814kDONa0+YayMkDWtPmGsjJKHGFwcHViUkxjS09obWJtUzNvY0RjUnhLV1lTTT1aHyIdtlVVNU1nUmduNnQ1UmJKSzJEZVZEMStkZmxvST1lwCv08BLsAQgJEucBChwrRGhGMWs5U2JHTThZeUdEWXg5OXU3V1Y2SUk9EmZaOkFEcXRBWnpwTk1SNWFHTFhucnJqOHNsOUFrdXI2bzZYdktKOVM1VWY2ZXd1THZRMWY3YUxVZW5Zai9VOVhDWE9WZTFucWtBMkNBWHlIM1dVRm5uTmdXRWRGVHNhVnZQNDBRPT0YACAAKAAwkYa0uLzXiQM49azmjbIyQPWs5o2yMkocQXg1S3RJSUE3dWN4K0xYY0hwVm5FSC9IT2hjPVofIh3bTlhST1VzZzZqS1JBUHpsTXcxWkFoUUNxUjFjPWUgUqSYEusBCAcS5gEKHG5NSFJvV01FQm1tUGhUSVFzNVhzNHJzVWgyOD0SZlo6QURxdEFaenBOTVI1YUdMWG5ycmo4c2w5QWt1clQzOVFBeWIvRHhZQ1BsdlcvSSswdmVwOUN2TUJoN0FKOVQwek9hNURoU0dJVDFzUmhVdDBGcDR6b1NndGIxSFRWNE9DVWc9PRgAIAAoADDV3ePD1ciJAzj7tbS7rjJA+7W0u64yShxFNm5CeFlBQzV1Y2FFUW1jdXlnRWxMQzcwTDQ9Wh4iHGxiL0s5Q3FCUVhlbHYvL1gzeGZIU3krQjZKND1lRU1K0RLrAQgGEuYBChxyOFhiUjZqTWEzTTJCQ1BYeUs2eXUyK21xYU09EmZaOkFEcXRBWnpwTk1SNWFHTFhucnJqOHNsOUFrdXJ2QmRtenZHWVZHcldHN1lCWjI5UDhSSkNRb2RyREdxdlEvNGYrRWFwa29yRFErNEJFZjRWUEQ2aVAwYTlBNGk0clNPT1NnPT0YACAAKAAwk9nmwtXIiQM425q0u64yQNuatLuuMkocOEk3S2VrNzgzV2RaM0ZnUU1DRUFBRGVXVVNNPVoeIhwzY2JoVHdxeDY3MHh5VmJPKzNZaDJlREtRWUk9Zdm+LXwS7AEIBRLnAQocWCtrZTlZRGtTc3JVaUkxMzRQTWpLU0U0Z1lvPRJmWjpBRHF0QVp6cE5NUjVhR0xYbnJyajhzbDlBa3VyeDExeExBdS94U0M4dHdoRnh3N1JDUzM0VTk4bHIvWWM1bE5wcXJjTWR0b1g3SWJQTGQ4cFYzQzNWZllzWm9OK2ZNOHF6dz09GAAgACgAMKDG47K814kDOJXZg4eyMkCV2YOHsjJKHHArODBWY0ZWUnYzYy9KeGRvN3pGbnNFblJCZz1aHyIdGXNjTHlGR0VqaFpESXcwclI5b0NQc3JMZDJSWT1leHNwMBLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnlWb3owckM1dDVBd0NBUlVuL2Zma1pNM2tRWXphZy96enhzWVlSd29oUnkrU1FUVjlnQ2lKQ1p4Tng5bzVuN2dnTHN5TW1sZ2ExOWIrZGNzTklrSWJzc2xhaldnPT0YACAAKAAwxYLKvvDWiQM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnlvNnVvZnIvZGQ2VXFpY1owT3ZHZkE1QjNDa3pWajFUcUU3c2psSUlpOXd2VUFTazVsZ29WOXpJS1VrdzgzR0lQbTdISDkYACAAKAAwxYLKvvDWiQM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlGdWwxVDJTMTZDV2pjZGFycERmd1B3blFPeVFWYStjcTE0VlRLR2dPeDRpSmR0N3VuOURiUTFOL0lBMEZ6Tm5YQXVVb2pUTkxoOUZkSUpXOTJ6YWcyWi9kOGdBPT0YACAAKAAwxYLKvvDWiQM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAADABOAA=",
+   "version": 1
+}

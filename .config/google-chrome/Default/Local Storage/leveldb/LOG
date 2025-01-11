@@ -1,0 +1,50 @@
+2024/12/23-10:34:28.343 4 Creating DB /home/javabean/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
+2024/12/23-10:34:28.624 4 Reusing MANIFEST /home/javabean/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/12/23-10:51:17.026 4 Level-0 table #5: started
+2024/12/23-10:51:17.039 4 Level-0 table #5: 18532 bytes OK
+2024/12/23-10:51:17.049 4 Delete type=0 #3
+2024/12/23-10:57:44.828 5 Level-0 table #7: started
+2024/12/23-10:57:44.837 5 Level-0 table #7: 30490 bytes OK
+2024/12/23-10:57:44.844 5 Delete type=0 #4
+2024/12/23-11:09:42.806 4 Level-0 table #9: started
+2024/12/23-11:09:42.816 4 Level-0 table #9: 19606 bytes OK
+2024/12/23-11:09:42.823 4 Delete type=0 #6
+2024/12/23-11:26:17.026 4 Level-0 table #11: started
+2024/12/23-11:26:17.041 4 Level-0 table #11: 15352 bytes OK
+2024/12/23-11:26:17.050 4 Delete type=0 #8
+2024/12/23-11:44:17.026 4 Level-0 table #13: started
+2024/12/23-11:44:17.035 4 Level-0 table #13: 15219 bytes OK
+2024/12/23-11:44:17.044 4 Delete type=0 #10
+2024/12/23-12:03:17.026 4 Level-0 table #15: started
+2024/12/23-12:03:17.043 4 Level-0 table #15: 15337 bytes OK
+2024/12/23-12:03:17.050 4 Delete type=0 #12
+2024/12/23-12:03:17.050 4 Compacting 4@0 + 1@1 files
+2024/12/23-12:03:17.062 4 Generated table #16@0: 220 keys, 29401 bytes
+2024/12/23-12:03:17.062 4 Compacted 4@0 + 1@1 files => 29401 bytes
+2024/12/23-12:03:17.068 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/23-12:03:17.069 4 Delete type=2 #13
+2024/12/23-12:03:17.069 4 Delete type=2 #15
+2024/12/23-12:03:17.069 4 Delete type=2 #9
+2024/12/23-12:03:17.069 4 Delete type=2 #11
+2024/12/23-12:03:17.069 4 Delete type=2 #7
+2024/12/23-12:19:42.806 4 Level-0 table #18: started
+2024/12/23-12:19:42.814 4 Level-0 table #18: 14733 bytes OK
+2024/12/23-12:19:42.823 4 Delete type=0 #14
+2024/12/23-12:36:17.056 4 Level-0 table #20: started
+2024/12/23-12:36:17.145 4 Level-0 table #20: 15388 bytes OK
+2024/12/23-12:36:17.238 4 Delete type=0 #17
+2024/12/23-12:56:22.091 5 Level-0 table #22: started
+2024/12/23-12:56:41.155 5 Level-0 table #22: 15672 bytes OK
+2024/12/23-12:56:52.940 5 Delete type=0 #19
+2024/12/23-13:29:17.026 5 Level-0 table #24: started
+2024/12/23-13:29:23.596 5 Level-0 table #24: 17070 bytes OK
+2024/12/23-13:29:34.241 5 Delete type=0 #21
+2024/12/23-13:29:34.241 5 Compacting 4@0 + 1@1 files
+2024/12/23-13:29:45.701 5 Generated table #25@0: 283 keys, 28208 bytes
+2024/12/23-13:29:45.701 5 Compacted 4@0 + 1@1 files => 28208 bytes
+2024/12/23-13:29:52.740 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/23-13:29:52.740 5 Delete type=2 #18
+2024/12/23-13:29:52.741 5 Delete type=2 #24
+2024/12/23-13:29:52.741 5 Delete type=2 #22
+2024/12/23-13:29:52.741 5 Delete type=2 #16
+2024/12/23-13:29:52.741 5 Delete type=2 #20

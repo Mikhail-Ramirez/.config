@@ -1,0 +1,80 @@
+2024/12/23-10:34:28.337 2dfc9 Creating DB /home/javabean/.config/google-chrome/Default/Sync Data/LevelDB since it was missing.
+2024/12/23-10:34:28.500 2dfc9 Reusing MANIFEST /home/javabean/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/12/23-11:02:56.318 2dfc9 Level-0 table #5: started
+2024/12/23-11:02:56.499 2dfc9 Level-0 table #5: 121332 bytes OK
+2024/12/23-11:02:56.538 2dfc9 Delete type=0 #3
+2024/12/23-11:10:34.349 2dfc9 Level-0 table #7: started
+2024/12/23-11:10:34.365 2dfc9 Level-0 table #7: 252380 bytes OK
+2024/12/23-11:10:34.373 2dfc9 Delete type=0 #4
+2024/12/23-11:18:00.517 2dfc8 Level-0 table #9: started
+2024/12/23-11:18:00.526 2dfc8 Level-0 table #9: 237011 bytes OK
+2024/12/23-11:18:00.533 2dfc8 Delete type=0 #6
+2024/12/23-11:24:36.593 2dfc8 Level-0 table #11: started
+2024/12/23-11:24:36.603 2dfc8 Level-0 table #11: 262840 bytes OK
+2024/12/23-11:24:36.611 2dfc8 Delete type=0 #8
+2024/12/23-11:31:39.218 2dfc9 Level-0 table #13: started
+2024/12/23-11:31:40.745 2dfc9 Level-0 table #13: 240300 bytes OK
+2024/12/23-11:31:40.757 2dfc9 Delete type=0 #10
+2024/12/23-11:37:42.734 2dfc9 Level-0 table #15: started
+2024/12/23-11:37:42.745 2dfc9 Level-0 table #15: 237177 bytes OK
+2024/12/23-11:37:42.752 2dfc9 Delete type=0 #12
+2024/12/23-11:37:42.752 2dfc9 Compacting 4@0 + 1@1 files
+2024/12/23-11:37:42.763 2dfc9 Generated table #16@0: 7 keys, 4325 bytes
+2024/12/23-11:37:42.763 2dfc9 Compacted 4@0 + 1@1 files => 4325 bytes
+2024/12/23-11:37:42.769 2dfc9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/23-11:37:42.769 2dfc9 Delete type=2 #13
+2024/12/23-11:37:42.769 2dfc9 Delete type=2 #15
+2024/12/23-11:37:42.769 2dfc9 Delete type=2 #9
+2024/12/23-11:37:42.769 2dfc9 Delete type=2 #11
+2024/12/23-11:37:42.769 2dfc9 Delete type=2 #7
+2024/12/23-11:43:32.736 2dfca Level-0 table #18: started
+2024/12/23-11:43:32.759 2dfca Level-0 table #18: 250467 bytes OK
+2024/12/23-11:43:32.766 2dfca Delete type=0 #14
+2024/12/23-11:49:56.574 2dfca Level-0 table #20: started
+2024/12/23-11:49:56.631 2dfca Level-0 table #20: 237118 bytes OK
+2024/12/23-11:49:56.638 2dfca Delete type=0 #17
+2024/12/23-11:56:33.082 2dfd3 Level-0 table #22: started
+2024/12/23-11:56:33.095 2dfd3 Level-0 table #22: 235753 bytes OK
+2024/12/23-11:56:33.101 2dfd3 Delete type=0 #19
+2024/12/23-12:03:15.431 2dfca Level-0 table #24: started
+2024/12/23-12:03:15.442 2dfca Level-0 table #24: 233625 bytes OK
+2024/12/23-12:03:15.447 2dfca Delete type=0 #21
+2024/12/23-12:03:15.447 2dfca Compacting 4@0 + 1@1 files
+2024/12/23-12:03:15.457 2dfca Generated table #25@0: 7 keys, 3480 bytes
+2024/12/23-12:03:15.457 2dfca Compacted 4@0 + 1@1 files => 3480 bytes
+2024/12/23-12:03:15.461 2dfca compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/23-12:03:15.461 2dfca Delete type=2 #18
+2024/12/23-12:03:15.461 2dfca Delete type=2 #24
+2024/12/23-12:03:15.461 2dfca Delete type=2 #22
+2024/12/23-12:03:15.461 2dfca Delete type=2 #16
+2024/12/23-12:03:15.461 2dfca Delete type=2 #20
+2024/12/23-12:08:54.173 2dfd4 Level-0 table #27: started
+2024/12/23-12:08:54.198 2dfd4 Level-0 table #27: 229197 bytes OK
+2024/12/23-12:08:54.205 2dfd4 Delete type=0 #23
+2024/12/23-12:15:31.563 2dfc9 Level-0 table #29: started
+2024/12/23-12:15:31.573 2dfc9 Level-0 table #29: 248637 bytes OK
+2024/12/23-12:15:31.580 2dfc9 Delete type=0 #26
+2024/12/23-12:24:16.929 2dfca Level-0 table #31: started
+2024/12/23-12:24:18.457 2dfca Level-0 table #31: 290606 bytes OK
+2024/12/23-12:24:18.471 2dfca Delete type=0 #28
+2024/12/23-12:30:42.706 2dfee Level-0 table #33: started
+2024/12/23-12:30:55.059 2dfee Level-0 table #33: 254740 bytes OK
+2024/12/23-12:30:55.758 2dfee Delete type=0 #30
+2024/12/23-12:30:55.758 2dfee Compacting 4@0 + 1@1 files
+2024/12/23-12:31:00.381 2dfee Generated table #34@0: 7 keys, 5598 bytes
+2024/12/23-12:31:00.381 2dfee Compacted 4@0 + 1@1 files => 5598 bytes
+2024/12/23-12:31:00.492 2dfee compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/23-12:31:00.493 2dfee Delete type=2 #31
+2024/12/23-12:31:00.493 2dfee Delete type=2 #33
+2024/12/23-12:31:00.493 2dfee Delete type=2 #27
+2024/12/23-12:31:00.493 2dfee Delete type=2 #25
+2024/12/23-12:31:00.493 2dfee Delete type=2 #29
+2024/12/23-12:41:46.328 2dfd3 Level-0 table #36: started
+2024/12/23-12:41:47.900 2dfd3 Level-0 table #36: 274381 bytes OK
+2024/12/23-12:41:50.250 2dfd3 Delete type=0 #32
+2024/12/23-12:51:32.408 2dfd6 Level-0 table #38: started
+2024/12/23-12:51:32.579 2dfd6 Level-0 table #38: 254934 bytes OK
+2024/12/23-12:51:32.787 2dfd6 Delete type=0 #35
+2024/12/23-13:44:49.315 2dfd5 Level-0 table #40: started
+2024/12/23-13:44:53.089 2dfd5 Level-0 table #40: 304107 bytes OK
+2024/12/23-13:45:01.357 2dfd5 Delete type=0 #37

@@ -1,0 +1,22 @@
+feh --bg-scale Downloads/desktop_circles.jpg
+# Regenerate the Openbox menu on startup
+obmenu-generator -s -o ~/.config/openbox/menu.xml
+openbox --reconfigure
+#see thro
+picom &
+#clock
+conky &
+
+#autostart tabs
+# Start Firefox
+firefox &
+
+# Start Alacritty with htop
+alacritty -e htop &
+
+# Start Alacritty with stp
+alacritty -e spt &
+
+# Start an additional Alacritty terminal
+alacritty &
+

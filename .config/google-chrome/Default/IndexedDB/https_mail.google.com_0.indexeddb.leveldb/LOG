@@ -1,0 +1,6 @@
+2024/12/23-10:53:49.868 2dfca Creating DB /home/javabean/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2024/12/23-10:53:49.910 2dfca Reusing MANIFEST /home/javabean/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/23-10:56:07.695 2dfc9 Level-0 table #5: started
+2024/12/23-10:56:13.700 2dfc9 Level-0 table #5: 2133 bytes OK
+2024/12/23-10:56:13.779 2dfc9 Delete type=0 #3
+2024/12/23-10:56:13.779 2dfc8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

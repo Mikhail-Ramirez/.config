@@ -1,0 +1,123 @@
+{
+    "layer": "top",
+    "position": "top",
+
+    "modules-left": [
+        "custom/right-arrow-dark",
+        "network"
+    ],
+    "modules-center": [
+        "clock"
+    ],
+    "modules-right": [
+        "custom/left-arrow-dark",
+        "pulseaudio",
+        "custom/left-arrow-light",
+        "custom/left-arrow-dark",
+        "memory",
+        "custom/left-arrow-light",
+        "custom/left-arrow-dark",
+        "cpu",
+        "custom/left-arrow-light",
+        "custom/left-arrow-dark",
+        "disk",
+        "custom/left-arrow-light",
+        "custom/left-arrow-dark",
+        "battery",
+        "tray"
+    ],
+
+    "custom/left-arrow-dark": {
+        "format": "",
+        "tooltip": false
+    },
+    "custom/left-arrow-light": {
+        "format": "",
+        "tooltip": false
+    },
+    "custom/right-arrow-dark": {
+        "format": "",
+        "tooltip": false
+    },
+    "custom/right-arrow-light": {
+        "format": "",
+        "tooltip": false
+    },
+
+    "pulseaudio": {
+        "format": "Vol {volume:2}%",
+        "format-bluetooth": "{icon}  {volume}%",
+        "format-muted": "MUTE",
+        "format-icons": {
+            "headphones": "",
+            "default": [
+                "",
+                ""
+            ]
+        },
+        "scroll-step": 5,
+        "on-click": "pamixer -t",
+        "on-click-right": "pavucontrol"
+    },
+    "memory": {
+        "interval": 5,
+        "format": "Mem {used} / {total}"
+    },
+    "cpu": {
+        "interval": 5,
+        "format": "CPU {usage:2}%",
+        "tooltip": false
+    },
+    "disk": {
+        "interval": 5,
+        "format": "Disk {used} / {total}",
+        "path": "/",
+        "tooltip": true,
+        "format-icons": {
+            "high": "",
+            "medium": "",
+            "low": ""
+        }
+    },
+    "battery": {
+        "bat": "BAT1",
+        "format": "{capacity}%"
+    },
+    "tray": {
+        "icon-size": 20
+    },
+
+    "network": {
+        "interface": "wlp2s0",
+        "format": "{ifname}",
+        "format-wifi": "{essid} ({signalStrength}%) {ipaddr}/{cidr}",
+        "format-ethernet": "{ipaddr}/{cidr}",
+        "format-disconnected": "Disconnected"
+    },
+    "clock": {
+        "format": "{:%I:%M}",
+        "format-alt": "{:%A, %B %d, %Y (%R)}",
+        "tooltip-format": "<tt><small>{calendar}</small></tt>",
+        "calendar": {
+                    "mode"          : "year",
+                    "mode-mon-col"  : 3,
+                    "weeks-pos"     : "right",
+                    "on-scroll"     : 1,
+                    "format": {
+                              "months":     "<span color='#ffead3'><b>{}</b></span>",
+                              "days":       "<span color='#ecc6d9'><b>{}</b></span>",
+                              "weeks":      "<span color='#99ffdd'><b>W{}</b></span>",
+                              "weekdays":   "<span color='#ffcc66'><b>{}</b></span>",
+                              "today":      "<span color='#ff6699'><b><u>{}</u></b></span>"
+                              }
+                    },
+        "actions":  {
+                    "on-click-right": "mode",
+                    "on-scroll-up": "tz_up",
+                    "on-scroll-down": "tz_down",
+                    "on-scroll-up": "shift_up",
+                    "on-scroll-down": "shift_down"
+                    }
+    }
+}
+
